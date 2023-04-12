@@ -20,3 +20,23 @@
     background-color: #ffffff;
   }
 } */
+
+div.fondo{
+  /* background: url(../public/fondo6.png); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* background-color: lightblue;
+  background-blend-mode: overlay; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  
+}
+
+div.fondo img{
+  width: 70%;
+  height: 70%;
+ 
+}
