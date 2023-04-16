@@ -9,7 +9,7 @@ const Header = () => {
     <header className="py-6 bg-indigo-600">
         <div className="container mx-auto flex flex-col lg:flex-row justify-between items-center">
             <div className="img-header md:w-24 w-32">
-                <img src="../public/logo1.png" alt="" />
+                <img src="/logo1.png" alt="" />
             </div>
             <h1 className=" font-bold text-2xl text-indigo-200 text-center">
                 Administrador de Pacientes de
