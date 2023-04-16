@@ -73,7 +73,7 @@ const NuevoPassword = () => {
     return (
     <>
         <div className="fondo">
-            <img src="../public/fondo6.png" alt="" />
+            <img src="/fondo6.png" alt="" />
             <h1 className="text-indigo-600 font-black text-5xl text-center">
                 Restablece tu Contraseña y no pierdas acceso 
                 <span className=" text-black"> a tus Pacientes</span>
